@@ -1,2 +1,9 @@
 # Calculator
-A calculator which implemented operators +,-,/,*,&lt;.>,&lt;=,>=,!=,==,&amp;,|,~
+A calculator which implements operators:
++ - / * %
+>= <= > < != ==
+~ | & 
+
+## Webite Link
+
+<link = "https://yagneswar17.github.io/Calculator/" />
