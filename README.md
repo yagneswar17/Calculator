@@ -8,6 +8,6 @@ A calculator which implements operators:
 
 [Open Calcuator](https://yagneswar17.github.io/Calculator/)
 
-### Screenshots
+### Sample Screenshot
 
 ![alt text](https://github.com/yagneswar17/Calculator/blob/main/CalculatorImage.jpg)
