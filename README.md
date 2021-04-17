@@ -1,9 +1,9 @@
 # Calculator
 A calculator which implements operators:
-+ - / * %
+<p>+ - / * %
 >= <= > < != ==
-~ | & 
+      ~ | & </p>
 
 ## Webite Link
 
-<link = "https://yagneswar17.github.io/Calculator/" />
+[Open Calcuator](https://yagneswar17.github.io/Calculator/)
