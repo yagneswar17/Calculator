@@ -1,5 +1,5 @@
 # Calculator
-### Calculator Using only HRML and JavaScrpit 
+### Calculator Using only HTML and JavaScrpit 
 A calculator which implements operators:
 <p>+ - / * %
 >= <= > < != ==
