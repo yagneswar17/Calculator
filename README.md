@@ -11,3 +11,7 @@ A calculator which implements operators:
 ### Sample Screenshot
 
 ![alt text](https://github.com/yagneswar17/Calculator/blob/main/CalculatorImage.jpg)
+
+Here Some of the Calculations are shown:
+
+![alt text](https://github.com/yagneswar17/Calculator/blob/main/CalculatoImage2.jpg)
