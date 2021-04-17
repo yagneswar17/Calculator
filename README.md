@@ -10,3 +10,4 @@ A calculator which implements operators:
 
 ### Screenshots
 
+![alt text](https://github.com/yagneswar17/Calculator/blob/main/CalculatorImage.jpg)
